@@ -63,7 +63,7 @@ Aðalfundur félagsins skal haldinn í febrúarmánuði ár hvert. Aðalfundur f
 
 ### 11. grein
 
-Aðalfund skal boða skriflega með minnst tveggja vikna fyrirvara til atkvæðisbærra manna. Á sama tíma skal tilkynna um fundinn skriflega í heimili félagsins. Aðalfundur er löglegur sé löglega til hans boðað og í það minnsta 8 félagsmenn sitji hann.
+ Aðalfundur félagsins skal haldinn í september ár hvert. Aðalfundur fer með æðsta vald félagsins, en þess á milli sérkjörin stjórn, sem starfar eftir ákvörðunum aðalfundar.
 
 ### 12. grein
 
@@ -158,6 +158,7 @@ Reikningsár félagsins miðast við almanaksárið. Skoðunarmaður reikninga f
 
 ### 21. grein
 
+	Reikningsár félagsins miðast við starfsárið, hefst 1. september og lýkur 31. ágúst. Skoðunarmaður reikninga félagsins skal vera lögráða og með hreint sakavottorð. Hann skal ekki liggja undir gjaldþrotaskiptum og bú hans má ekki hafa verið tekið til gjaldþrotaskipta síðastliðin tvö ár. Hann skal ekki gegna stöðu gjaldkera félagsins.
 Hætti félagið störfum skulu eignir þess ávaxtaðar í tíu ár sem félagið væri enn þá starfandi. Takist ekki að endurreisa félagið eða finna því arftaka að þeim tíma liðnum skal eignum þess ráðstafað í samráði við BÍS.
 
 ### 22. grein
