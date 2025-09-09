@@ -29,8 +29,6 @@ Markmiðum sínum hyggst félagið ná:
 - með skapandi og skemmtilegum verkefnum af fjölbreyttum toga til að kenna og þjálfa skátana í ýmsum störfum nytsömum sjálfum sér og öðrum.
 - með þátttöku í alþjóðastarfi skátahreyfingarinnar til að gefa skátunum tækifæri til að kynnast ungu fólki í öðrum löndum, háttum þess og menningu.
 
----
-
 ## Kafli II – Félagar
 
 ### 5. grein
@@ -52,8 +50,6 @@ Félögum ber að hafa í heiðri þau heit er þeir hafa gefið og taka virkan 
 ### 9. grein
 
 Styrktaraðilar, hjálparfélagar og sérskátar geta orðið félagar og skal þá stjórn taka ákvörðun um eðli aðildarinnar og félagsgjalda.
-
----
 
 ## Kafli III – Aðalfundur
 
@@ -84,8 +80,6 @@ Verkefni aðalfundar eru:
 6. Kosning eins skoðunarmanns reikninga.  
 7. Starfsáætlun ársins mótuð.  
 8. Önnur mál, fundarslit.  
-
----
 
 ## Kafli IV – Stjórn félagsins
 
@@ -118,8 +112,6 @@ Að minnsta kosti einn stjórnarmeðlimur skal vera foreldri barns í félaginu,
 ### 16. grein
 
 Stjórn félagsins sér um að lögum og reglugerðum félagsins sé fylgt, sér um eftir því sem unnt er að ráð, foringjar og starfsmenn félagsins gegni störfum sínum vel og af trúnaði. Hún sér um að sjóðir félagsins séu ávaxtaðir og ráðstafað á sem hagkvæmastan hátt. Einfaldur meirihluti ræður úrslitum í ákvörðunum stjórnar.
-
----
 
 ## Kafli V – Foringjar og starfsmenn
 
