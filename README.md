@@ -148,23 +148,25 @@ Lágmarksaldur:
 
 Leitast skal við að hafa launaðan starfsmann við félagið til að auðvelda rekstur þess og skulu laun hans ákveðin af stjórn félagsins. Starfsmaðurinn sér um daglegan rekstur félagsins, aðstoðar við skátafundi og skipulagningu starfsins, innheimtir félagsgjöld, annast dagleg samskipti félagsins út á við og almenn skrifstofustörf. Starfsmaður skal vera viðstaddur alla almenna skátafundi og stjórnarfundi.
 
----
+### 20. grein
+
+Í félaginu starfar Búnaðarstjóri, embætti sem aðalfundur skipar ár hvert. Staða Búnaðarstjóra skal auglýst opinberlega fyrir aðalfund, og ef fleiri en eitt framboð berst í embættið fer fram kosning á aðalfundi. Ábyrgð Búnaðarstjóra er að hafa yfirsýn með búnaði og eignum félagsins, bera ábyrgð á viðhaldi, innkaupum og kennslu á notkun búnaðar í eigu félagsins í samráði við stjórn félagsins. Búnaðarstjóri hefur ekki fjárráð og skal ávallt vinna í samræmi við samþykki stjórnar. Ef Búnaðarstjóri lætur af störfum á milli aðalfunda hefur stjórn rétt til að skipa í embættið fram að næsta aðalfundi. Búnaðarstjóri hefur rétt til að sitja stjórnarfundi en hefur ekki atkvæðisrétt.
 
 ## Kafli VI – Önnur ákvæði
 
-### 20. grein
+### 21. grein
 
 Reikningsár félagsins miðast við almanaksárið. Skoðunarmaður reikninga félagsins skal vera lögráða og með hreint sakavottorð. Hann skal ekki liggja undir gjaldþrotaskiptum og bú hans má ekki hafa verið tekið til gjaldþrotaskipta síðastliðin tvö ár. Hann skal ekki gegna stöðu gjaldkera félagsins.
 
-### 21. grein
+### 22. grein
 
-	Reikningsár félagsins miðast við starfsárið, hefst 1. september og lýkur 31. ágúst. Skoðunarmaður reikninga félagsins skal vera lögráða og með hreint sakavottorð. Hann skal ekki liggja undir gjaldþrotaskiptum og bú hans má ekki hafa verið tekið til gjaldþrotaskipta síðastliðin tvö ár. Hann skal ekki gegna stöðu gjaldkera félagsins.
+Reikningsár félagsins miðast við starfsárið, hefst 1. september og lýkur 31. ágúst. Skoðunarmaður reikninga félagsins skal vera lögráða og með hreint sakavottorð. Hann skal ekki liggja undir gjaldþrotaskiptum og bú hans má ekki hafa verið tekið til gjaldþrotaskipta síðastliðin tvö ár. Hann skal ekki gegna stöðu gjaldkera félagsins.
 Hætti félagið störfum skulu eignir þess ávaxtaðar í tíu ár sem félagið væri enn þá starfandi. Takist ekki að endurreisa félagið eða finna því arftaka að þeim tíma liðnum skal eignum þess ráðstafað í samráði við BÍS.
 
-### 22. grein
+### 23. grein
 
 Lögum þessum verður aðeins breytt á aðalfundi. Tillögur um lagabreytingar skulu berast stjórn félagsins tveimur vikum fyrir aðalfund ár hvert og skulu birtar í fundarboði. Einfaldur meirihluti ræður lagabreytingum.
 
-### 23. grein
+### 24. grein
 
 Lög þessi skulu aðgengileg í heimili félagsins og á vef þess. Lög þessi skulu liggja fyrir á aðalfundi. Lög þessi öðlast þegar gildi.
